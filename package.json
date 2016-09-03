@@ -1,0 +1,15 @@
+{
+  "name": "BotAntiraciste",
+  "version": "0.1.0",
+  "description": "Un bot nodejs qui répond aux tweets raciste",
+  "main": "app.js",
+  "dependencies": {
+    "twitter": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yassham",
+  "license": "MIT"
+}
