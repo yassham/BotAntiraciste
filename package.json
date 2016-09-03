@@ -1,7 +1,7 @@
 {
   "name": "BotAntiraciste",
   "version": "0.1.0",
-  "description": "Un bot nodejs qui répond aux tweets raciste",
+  "description": "Un bot nodejs qui répond aux tweets racistes",
   "main": "app.js",
   "dependencies": {
     "twitter": "^1.4.0"
